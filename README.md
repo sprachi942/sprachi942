@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sprachi942
+- 👋 Hi, I’m prachi
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...various projects
+- 💞️ I’m looking to collaborate on ...various projects to get skilled at coding in java
 - 📫 How to reach me ...text me
 
 <!---
